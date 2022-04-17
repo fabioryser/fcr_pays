@@ -1,4 +1,4 @@
-package ch.fhnw.webec.exercise;
+package ch.fcr_pays;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

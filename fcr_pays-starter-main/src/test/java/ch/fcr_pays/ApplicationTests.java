@@ -1,4 +1,4 @@
-package ch.fhnw.webec.exercise;
+package ch.fcr_pays;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

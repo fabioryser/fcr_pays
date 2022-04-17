@@ -1,4 +1,4 @@
-package ch.fhnw.webec.exercise.controller;
+package ch.fcr_pays.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
